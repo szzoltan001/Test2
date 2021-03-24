@@ -1,1 +1,2 @@
-Line1ByUser2
+Line1ByUser1 
+Line2ByUser2
